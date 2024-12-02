@@ -1,5 +1,4 @@
 from CS50.function.calculator import square
-import pytest
 
 def test_positive():
     assert square(1) != 4
